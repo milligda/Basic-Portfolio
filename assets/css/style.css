@@ -28,6 +28,7 @@ h1 {
     padding: 0;
     font-size: 30px;
     line-height: 30px;
+    font-weight: bold;
 }
 
 h3 {
@@ -37,6 +38,7 @@ h3 {
 
 p {
     line-height: 2em;    
+    margin: 10px;
 }
 
 hr {
@@ -95,7 +97,7 @@ nav ul li a:hover {
 
 .content-container {
     max-width: 960px;
-    margin: 20px auto 50px auto;
+    margin: 20px auto 125px auto;
     padding: 0px;
     background-color: #ffffff;
     border: #dddddd solid 1px;
@@ -202,4 +204,8 @@ footer {
     font-size: 12px;
     line-height: 14px;
     border-top:  #4aaaa5 solid 6px;
+}
+
+.copyright {
+    margin: 0;
 }
